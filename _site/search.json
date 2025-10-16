@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "frank-website",
+    "title": "Frank Shih",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I’m a Postdoctoral Research Scholar at MSKCC (Epidemiology & Biostatistics).\nMy work focuses on uncertainty quantification for deep learning, reinforcement learning (actor–critic), and EFI for biomedical data. I care about methods that are both theoretically grounded and computationally practical.\n\nFeatured\n\nEFI-PINNs (preprint) — brief 1-line summary. PDF · Code · arXiv\nLatent-Trajectory PPO/A2C — brief 1-line summary. PDF · Code\nHigh-dimensional EFI regression — brief 1-line summary. PDF\n\n\n\nQuick links\n\nCV (PDF) · Google Scholar · GitHub · ORCID · Email\n\n\n\nNews\nSee recent updates on the News page."
   },
   {
     "objectID": "research.html",
