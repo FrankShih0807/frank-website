@@ -1,0 +1,10 @@
+---
+title: "News"
+listing:
+  contents: .
+  sort: "date desc"
+  type: default
+  categories: false
+---
+
+Short updates on papers, talks, releases.

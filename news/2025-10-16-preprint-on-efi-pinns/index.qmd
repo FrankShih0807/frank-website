@@ -1,0 +1,7 @@
+---
+title: "Preprint on EFI-PINNs"
+date: 2025-10-16
+image: figure.png  # optional
+---
+
+We’ve posted our new EFI-PINNs preprint on arXiv!

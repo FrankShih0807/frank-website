@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "0f5c11da"
+  },
+  "about.qmd": {
+    "about.html": "e4dc5550"
+  },
+  "research.qmd": {
+    "research.html": "aa64a605"
+  },
+  "publications.qmd": {
+    "publications.html": "eab7101e"
+  },
+  "news/2025-10-16-first-update.qmd": {
+    "2025-10-16-first-update.html": "35ad8a3d"
+  },
+  "news/index.qmd": {
+    "index.html": "a56d2f07"
+  },
+  "news/2025-10-16-preprint-on-efi-pinns/index.qmd": {
+    "index.html": "cbe460f8"
+  }
+}

@@ -1,0 +1,12 @@
+---
+title: "Publications"
+bibliography: publications.bib
+csl: https://www.zotero.org/styles/ieee   # change to your preferred style later
+nocite: |
+  @*   # include all entries from the .bib even if not cited
+---
+**Selected papers**
+- **EFI-PINNs** — NeurIPS 2025. [PDF](files/efi_pinns.pdf) · [Code](https://github.com/...) · [arXiv](https://arxiv.org/abs/XXXX.XXXXX)
+
+::: {#refs}
+:::

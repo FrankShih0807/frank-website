@@ -1,0 +1,14 @@
+---
+title: "Research"
+---
+
+### Focus areas
+- Uncertainty quantification for deep learning  
+- Reinforcement learning (actor–critic)  
+- EFI for biomedical data
+
+### Selected projects
+- **EFI-PINNs** — brief 1–2 lines
+- **Latent-Trajectory PPO/A2C** — brief 1–2 lines
+
+_Keep this page high-level; link details to papers or posts._
