@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "news/2025-10-16-preprint-on-efi-pinns/index.html",
+    "href": "news/2025-10-16-preprint-on-efi-pinns/index.html",
+    "title": "Preprint on EFI-PINNs",
+    "section": "",
+    "text": "We’ve posted our new EFI-PINNs preprint on arXiv!"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,11 +21,11 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "news/index.html",
-    "href": "news/index.html",
-    "title": "News",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Short updates on papers, talks, releases.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPreprint on EFI-PINNs\n\n\n\n\n\n\n\n\nOct 16, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Focus areas\n\nUncertainty quantification for deep learning\n\nReinforcement learning (actor–critic)\n\nEFI for biomedical data\n\n\n\nSelected projects\n\nEFI-PINNs — brief 1–2 lines\nLatent-Trajectory PPO/A2C — brief 1–2 lines\n\nKeep this page high-level; link details to papers or posts."
   },
   {
     "objectID": "publications.html",
@@ -28,24 +35,10 @@
     "text": "Selected papers - EFI-PINNs — NeurIPS 2025. PDF · Code · arXiv\n\n\n[1] F. Shih and Coauthors, “Extended fiducial inference for physics-informed neural networks,” in NeurIPS, 2025. Available: https://arxiv.org/abs/XXXX.XXXXX"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
     "section": "",
-    "text": "Focus areas\n\nUncertainty quantification for deep learning\n\nReinforcement learning (actor–critic)\n\nEFI for biomedical data\n\n\n\nSelected projects\n\nEFI-PINNs — brief 1–2 lines\nLatent-Trajectory PPO/A2C — brief 1–2 lines\n\nKeep this page high-level; link details to papers or posts."
-  },
-  {
-    "objectID": "news/2025-10-16-first-update.html",
-    "href": "news/2025-10-16-first-update.html",
-    "title": "Site launched",
-    "section": "",
-    "text": "Hello world — website scaffolded with Quarto (Quartz theme). More soon."
-  },
-  {
-    "objectID": "news/2025-10-16-preprint-on-efi-pinns/index.html",
-    "href": "news/2025-10-16-preprint-on-efi-pinns/index.html",
-    "title": "Preprint on EFI-PINNs",
-    "section": "",
-    "text": "We’ve posted our new EFI-PINNs preprint on arXiv!"
+    "text": "Short updates on papers, talks, releases.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPreprint on EFI-PINNs\n\n\n\n\n\n\n\n\nOct 16, 2025\n\n\n\n\n\nNo matching items"
   }
 ]
