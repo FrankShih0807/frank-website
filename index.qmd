@@ -13,7 +13,7 @@ My work focuses on **uncertainty quantification for deep learning**, **reinforce
 - **High-dimensional EFI regression** — brief 1-line summary. [PDF](#)
 
 ### Quick links
-- [CV (PDF)](files/cv.pdf) · [Google Scholar](#) · [GitHub](https://github.com/FrankShih0807) · [ORCID](#) · [Email](mailto:fshih37@gmail.com)
+- [CV (PDF)](files/cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=yBogbycAAAAJ&hl=en) · [GitHub](https://github.com/FrankShih0807) · [ORCID](https://orcid.org/0009-0005-0061-5050) · [Email](mailto:shihf@mskcc.org)
 
 ### News
 See recent updates on the [News](/news/) page.
